@@ -768,7 +768,7 @@
     </dashboard>
   </dashboards>
   <windows saved-dpi-scale-factor='1.25' source-height='89'>
-    <window class='worksheet' name='各地图图书馆总数'>
+    <window class='worksheet' maximized='true' name='各地图图书馆总数'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -838,7 +838,7 @@
       </cards>
       <simple-id uuid='{82C155EE-816E-4B45-ABB4-EB2BD1E0BE16}' />
     </window>
-    <window class='dashboard' maximized='true' name='图书馆仪表板'>
+    <window class='dashboard' name='图书馆仪表板'>
       <viewpoints>
         <viewpoint name='各地图图书馆总数' />
         <viewpoint name='各大洲图书馆'>
